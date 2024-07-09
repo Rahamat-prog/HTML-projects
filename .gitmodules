@@ -7,3 +7,6 @@
 [submodule "Grid-layout-project-with-HTML-and-CSS"]
 	path = Grid-layout-project-with-HTML-and-CSS
 	url = https://github.com/Rahamat-prog/Grid-layout-project-with-HTML-and-CSS.git
+[submodule "HTML_project1/Time-table-project-with-HTML"]
+	path = HTML_project1/Time-table-project-with-HTML
+	url = https://github.com/Rahamat-prog/Time-table-project-with-HTML.git
